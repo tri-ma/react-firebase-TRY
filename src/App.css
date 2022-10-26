@@ -1,3 +1,19 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+li {
+  width: 33%;
+  list-style: none;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
 .App {
   text-align: center;
 }
